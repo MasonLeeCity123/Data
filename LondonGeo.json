@@ -17,7 +17,7 @@
         {
           "type": "Polygon",
           "arcs": [[0, 1, 2, 3, 4]],
-          "id": "Kingston upon Thames",
+          "id": "Kingston Upon Thames",
           "properties": { "GSSCode": "E09000021" }
         },
         {
@@ -131,7 +131,7 @@
         {
           "type": "Polygon",
           "arcs": [[74, 75, -1, 76, -18]],
-          "id": "Richmond upon Thames",
+          "id": "Richmond Upon Thames",
           "properties": { "GSSCode": "E09000027" }
         },
         {
@@ -155,7 +155,7 @@
         {
           "type": "Polygon",
           "arcs": [[-80, -35, 81, 82]],
-          "id": "Kensington and Chelsea",
+          "id": "Kensington & Chelsea",
           "properties": { "GSSCode": "E09000020" }
         },
         {
@@ -203,7 +203,7 @@
         {
           "type": "MultiPolygon",
           "arcs": [[[-104, -68, 105, -103, 106]], [[-71, -27, 107]]],
-          "id": "Barking and Dagenham",
+          "id": "Barking & Dagenham",
           "properties": { "GSSCode": "E09000002" }
         },
         {
